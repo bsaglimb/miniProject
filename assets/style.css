@@ -1,3 +1,6 @@
+*{
+  background-color: rgb(178, 231, 231);
+}
 
 .search-title {
     font-size: 24px;
@@ -15,6 +18,7 @@
     width: 200px;
     padding: 5px;
     margin-right: 10px;
+    background-color: white;
   }
   
 
@@ -28,7 +32,11 @@
     border-radius: 100px;
   }
   
+  #speed{
+    background-color: rgb(211, 207, 203);
+  }
   
+
   
   
   
